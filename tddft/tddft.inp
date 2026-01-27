@@ -1,0 +1,10 @@
+! wb97x-d4 def2-svp pal8
+
+%tddft
+    nroots 10
+    tda false
+end
+
+*xyz 0 1
+
+*
