@@ -74,7 +74,7 @@ $new_job
 
 %base "tryptophan_freq"
 
-*xyzfile 0 1 "tryptophan_opt.xyz"
+*xyzfile 0 1 tryptophan_opt.xyz
 
 $new_job
 
@@ -87,4 +87,4 @@ $new_job
     tda false
 end
 
-*xyzfile 0 1 "tryptophan_opt.xyz"
+*xyzfile 0 1 tryptophan_opt.xyz

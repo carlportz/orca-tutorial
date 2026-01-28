@@ -64,7 +64,7 @@ $new_job
 
 %base "hbi_freq"
 
-*xyzfile 0 1 "hbi_opt.xyz"
+*xyzfile 0 1 hbi_opt.xyz
 
 $new_job
 
@@ -77,4 +77,4 @@ $new_job
     tda false
 end
 
-*xyzfile 0 1 "hbi_opt.xyz"
+*xyzfile 0 1 hbi_opt.xyz

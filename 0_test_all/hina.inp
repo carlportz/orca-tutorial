@@ -48,7 +48,7 @@ $new_job
 
 %base "hina_freq"
 
-*xyzfile 0 1 "hina_opt.xyz"
+*xyzfile 0 1 hina_opt.xyz
 
 $new_job
 
@@ -61,4 +61,4 @@ $new_job
     tda false
 end
 
-*xyzfile 0 1 "hina_opt.xyz"
+*xyzfile 0 1 hina_opt.xyz
