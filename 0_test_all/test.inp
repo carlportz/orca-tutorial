@@ -77,6 +77,8 @@ end
 
 *xyzfile 0 1 bodipy_opt.xyz
 
+$new_job
+
 ! b3lyp def2-svp d3 printmos printbasis pal8
 
 %base "coumarin_sp"
@@ -147,6 +149,8 @@ $new_job
 end
 
 *xyzfile 0 1 coumarin_opt.xyz
+
+$new_job
 
 ! b3lyp def2-svp d3 printmos printbasis pal8
 
@@ -241,6 +245,8 @@ end
 
 *xyzfile 0 1 dmab_opt.xyz
 
+$new_job
+
 ! b3lyp def2-svp d3 printmos printbasis pal8
 
 %base "hbi_sp"
@@ -322,6 +328,8 @@ end
 
 *xyzfile 0 1 hbi_opt.xyz
 
+$new_job
+
 ! b3lyp def2-svp d3 printmos printbasis pal8
 
 %base "hina_sp"
@@ -386,6 +394,8 @@ $new_job
 end
 
 *xyzfile 0 1 hina_opt.xyz
+
+$new_job
 
 ! b3lyp def2-svp d3 printmos printbasis pal8
 
